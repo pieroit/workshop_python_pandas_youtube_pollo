@@ -1,0 +1,11 @@
+prove
+.idea
+*.csv
+*.jpg
+*.png
+*.npy
+model*
+*.joblib
+*.pyc
+*.pkl
+*.tsd
