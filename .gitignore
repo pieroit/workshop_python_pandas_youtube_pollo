@@ -1,6 +1,5 @@
 prove
 .idea
-*.csv
 *.jpg
 *.png
 *.npy
